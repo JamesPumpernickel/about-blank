@@ -1,7 +1,7 @@
 <button type="button">Open in about:blank</button>
 <script>
 var url = "about:blank";
-var src = "index.html";
+var src = window.location.href; // Use the current page URL
 if (url) {
     var win;
     document.querySelector('button').onclick = function() {
@@ -18,5 +18,7 @@ if (url) {
             iframe.style.margin = '0';
             iframe.src = src;
             win.document.body.appendChild(iframe);
-    }
+        }
+    };
+}
 </script>
