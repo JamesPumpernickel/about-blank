@@ -5,4 +5,4 @@ index.html and web-aboutblank.js are files for this, the index.html is just the 
 ## about:blank cloaker bookmarklet
 bookmarklet-aboutblank.js is the bookmarklet file, just activate it to make the current page about:blank
 ## about:blank cloaker custom URL
-custom-bookmarklet-aboutblank.js is the bookmarklet file, and you can change the "" to change the URL endpoint
+custom-bookmarklet-aboutblank.js is the bookmarklet file, and you can change the "ENTER CUSTOM URL HERE" to change the URL endpoint
