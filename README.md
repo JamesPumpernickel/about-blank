@@ -1,3 +1,5 @@
+>[IMPORTANT]
+>This is a WIP, will be completed by Sat 22, 2025
 # about:blank cloaker
 This repo is a complete (as far as i know) guide for about:blank cloaking
 ## about:blank cloaker for website
