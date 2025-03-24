@@ -27,7 +27,7 @@ almost all pages will open in about:blank if they went into about:blank from tha
   <li>etc <br></li>
 </ul>
   
-current list of websites that don't work a all
+current list of websites that don't work at all
 <ul>
   <li>github</li>
 </ul>
