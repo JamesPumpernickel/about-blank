@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> for the custom and current page bookmarklets, https://github.com doesn't work so test it on another website
 # about:blank cloaker
 This repo is a complete (as far as i know) guide for about:blank cloaking
 ## about:blank cloaker for website
@@ -9,4 +11,4 @@ bookmarklet-aboutblank.js is the bookmarklet file, just activate it to make the 
 ## about:blank cloaker custom URL
 custom-bookmarklet-aboutblank.js is the bookmarklet file, and it prompts you to enter the endpoint URL
 > [!WARNING]
-> this bookmarklet doesn't work with some URLs, this can't be fixed
+> this bookmarklet doesn't work with some URLs, this can't be fixed (also if you're on a website that doesn't work for the current page bookmarklet, this bookmarklet won't open the page)
