@@ -18,15 +18,7 @@ almost all pages will open in about:blank if they went into about:blank from tha
 <ul>
   <li>none <br></li>
 </ul>
- current list of websites that can't be displayed from another website: <br>
- <br>
-<ul>
-  <li>now.gg <br></li>
-  <li>google.com <br></li>
-  <li>duckduckgo.com <br></li>
-  <li>etc <br></li>
-</ul>
-  
+ all websites not listed above can't be displayed from another website or haven't been tested. <br>
 current list of websites that don't work at all
 <ul>
   <li>github.com <br></li>
