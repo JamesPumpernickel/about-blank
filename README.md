@@ -29,6 +29,6 @@ almost all pages will open in about:blank if they went into about:blank from tha
   
 current list of websites that don't work at all
 <ul>
-  <li>github</li>
+  <li>github.com <br></li>
 </ul>
 <br>
