@@ -7,6 +7,6 @@ bookmarklet-aboutblank.js is the bookmarklet file, just activate it to make the 
 > [!WARNING]
 > this bookmarklet doesn't work with some URLs, this can't be fixed
 ## about:blank cloaker custom URL
-custom-bookmarklet-aboutblank.js is the bookmarklet file, and you can change the "ENTER CUSTOM URL HERE" to change the URL endpoint
+custom-bookmarklet-aboutblank.js is the bookmarklet file, and it prompts you to enter the endpoint URL
 > [!WARNING]
 > this bookmarklet doesn't work with some URLs, this can't be fixed
