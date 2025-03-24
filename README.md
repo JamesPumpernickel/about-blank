@@ -1,5 +1,3 @@
-> [!IMPORTANT]
-> This is a WIP, will be completed by [SOMETIME]
 # about:blank cloaker
 This repo is a complete (as far as i know) guide for about:blank cloaking
 ## about:blank cloaker for website
@@ -7,6 +5,8 @@ index.html and web-aboutblank.js are files for this, the index.html is just the 
 ## about:blank cloaker bookmarklet
 bookmarklet-aboutblank.js is the bookmarklet file, just activate it to make the current page about:blank
 > [!WARNING]
-> this bookamrklet doesnt work with some URLs, that can't be fixed
+> this bookmarklet doesn't work with some URLs, this can't be fixed
 ## about:blank cloaker custom URL
 custom-bookmarklet-aboutblank.js is the bookmarklet file, and you can change the "ENTER CUSTOM URL HERE" to change the URL endpoint
+> [!WARNING]
+> this bookmarklet doesn't work with some URLs, this can't be fixed
