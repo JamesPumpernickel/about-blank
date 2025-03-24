@@ -19,7 +19,7 @@ almost all pages will open in about:blank if they went into about:blank from tha
   <li>none <br></li>
 </ul>
  all websites not listed above can't be displayed from another website or haven't been tested. <br> <br>
-current list of websites that don't work at all <br> <br>
+current list of websites that don't work at all: <br> <br>
 <ul>
   <li>github.com <br></li>
 </ul>
