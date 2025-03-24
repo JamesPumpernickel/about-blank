@@ -4,13 +4,19 @@ This repo is a complete (as far as i know) guide for about:blank cloaking
 index.html and web-aboutblank.js are files for this, the index.html is just the code for the button and the web-aboutblank.js is for actually opening the page.
 ## important info about the about:blank cloaker bookmarklets
 almost all pages will open in about:blank if they went into about:blank from that page, but testing is still happening on what pages let their page be displayed. <br>
-current list of websites that can be displayed from another website: <br>
-none <br>
-current list of websites that can't be displayed from another website: <br>
-now.gg <br>
-google.com <br>
-duckduckgo.com <br>
-etc <br>
+<ul>
+  current list of websites that can be displayed from another website: <br>
+  <li>none <br></li>
+</ul>
+<ul>
+ current list of websites that can't be displayed from another website: <br>
+  <li>now.gg <br></li>
+  <li>google.com <br></li>
+  <li>duckduckgo.com <br></li>
+  <li>etc <br></li>
+</ul>
+  
+current list of websites that 
 ## about:blank cloaker bookmarklet
 bookmarklet-aboutblank.js is the bookmarklet file, just activate it to make the current page about:blank
 > [!WARNING]
