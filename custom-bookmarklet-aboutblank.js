@@ -1,5 +1,5 @@
 javascript:(function() {
-    var url = prompt("Enter the URL:", "http://example.com");
+    var url = prompt("Enter the URL:", "https://");
     if (url) {
         var win = window.open("about:blank");
         if (win) {
