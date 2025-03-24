@@ -9,6 +9,7 @@ almost all pages will open in about:blank if they went into about:blank from tha
   <li>none <br></li>
 </ul>
  current list of websites that can't be displayed from another website: <br>
+ <br>
 <ul>
   <li>now.gg <br></li>
   <li>google.com <br></li>
