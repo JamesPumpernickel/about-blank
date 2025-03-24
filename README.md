@@ -18,7 +18,10 @@ almost all pages will open in about:blank if they went into about:blank from tha
   <li>etc <br></li>
 </ul>
   
-current list of websites that 
+current list of websites that don't work a all
+<ul>
+  <li>github</li>
+</ul>
 ## about:blank cloaker bookmarklet
 bookmarklet-aboutblank.js is the bookmarklet file, just activate it to make the current page about:blank
 > [!WARNING]
